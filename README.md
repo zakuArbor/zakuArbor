@@ -1,6 +1,6 @@
 ### Ju Hong Kim | Former Software Developer | Student | Random Human
 
-<a href="www.linkedin.com/in/ju-hong-kim-zaku"> ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://zakuarbor.github.io/blog"> ![Blog Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ju-hong-kim-zaku"> ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://zakuarbor.github.io/blog"> ![Blog Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)</a>
 
 **Hello World** - A random github profile by a random human who loves learning and C Programming.
 * 📚 Studying a few random programs at a Canadian University
