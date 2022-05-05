@@ -4,7 +4,7 @@
 
 **Hello World** - A random github profile by a random human who loves learning and C Programming.
 * 📚 Currently studying a few random programs at a University
-* 💻 Former IBMer
+* 💻 Former IBMer with Internships at IBM and QNX (Blackberry)
 * 🎓 Computer Science @ some Canadian University
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakuarbor&hide=scss,html,css,tex,tsql&langs_count=4&layout=compact)](https://github.com/zakuarbor)
