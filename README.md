@@ -4,7 +4,7 @@
 
 **Hello World** - A random github profile by a random human who loves learning and C Programming.
 * 📚 Currently studying a few random programs @ another Canadian University
-* 💻 Former IBMer with Internships at IBM and QNX, Blackberry, and Ericsson (Highschool unpaid)
+* 💻 Former IBMer with Internships at IBM, QNX, Blackberry, and Ericsson (Highschool unpaid)
 * 🎓 Computer Science @ some Canadian University
 * 💼 13 Months Fulltime Experience + 24 Months Internship Experience + 4 Month Unpaid Experience at various Tech Companies
 
