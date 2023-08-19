@@ -4,9 +4,9 @@
 
 **Hello World** - A random github profile by a random human who loves learning and C Programming.
 * 📚 Currently studying a few random programs @ another Canadian University
-* 💻 Former IBMer with Internships at IBM and QNX (Blackberry)
+* 💻 Former IBMer with Internships at IBM and QNX,(Blackberry) and Blackberry
 * 🎓 Computer Science @ some Canadian University
-* 💼 13 Months Fulltime Experience + 20 Months Internship Experience + 4 Month Unpaid Experience at various Tech Companies
+* 💼 13 Months Fulltime Experience + 24 Months Internship Experience + 4 Month Unpaid Experience at various Tech Companies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakuarbor&hide=scss,html,css,tex,tsql&langs_count=4&layout=compact)](https://github.com/zakuarbor)
 
