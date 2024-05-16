@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/ju-hong-kim-zaku"> ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://zakuarbor.github.io/blog"> ![Blog Badge](https://img.shields.io/static/v1?label=&message=BLOG&color=228B22&style=for-the-badge)</a> <a href = "https://zakuarbor.github.io/portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a> 
 
 **Hello World** - A random github profile by a random human who loves learning and C Programming.
-* 📚 Currently studying a few random programs @ another Canadian University
-* 💻 Former IBMer with Internships at IBM, QNX, Blackberry, and Ericsson (Highschool unpaid)
-* 🎓 Computer Science @ some Canadian University
-* 💼 13 Months Fulltime Experience + 24 Months Internship Experience + 4 Month Unpaid Experience at various Tech Companies
+* 📚 Currently studying Mathematics @ a local Canadian University
+* 💻 Former IBMer with Internships at IBM, QNX, Blackberry, and Ericsson
+* 🎓 Computer Science @ a Canadian University
+* 💼 Over 3 years of work experience in the Tech Industry
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakuarbor&hide=scss,html,css,tex,tsql&langs_count=4&layout=compact)](https://github.com/zakuarbor)
 
