@@ -15,3 +15,8 @@
 * [A Look into Double Pointers](https://zakuarbor.github.io/blog/double-pointers/)
 * [A Dive to the Build Process - What Goes On When You Press the Play Button](https://zakuarbor.github.io/blog/building-code/)
 * [What is Name Mangling](https://zakuarbor.github.io/blog/extern-c-name-mangling/)
+
+---
+
+## All Repositories on Github are on Archive Mode
+Migrated over to [codeberg](https://codeberg.org/zakuArbor): [https://codeberg.org/zakuArbor](https://codeberg.org/zakuArbor)
